@@ -11,6 +11,11 @@
 
 ### Hi there 👋
 
+<img src="https://tryhackme-badges.s3.amazonaws.com/cayu.png" alt="TryHackMe">
+
+<img src="https://www.hackthebox.eu/badge/image/90122" alt="HackTheBox">
+
+
 <!--
 **cayu/cayu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
