@@ -6,9 +6,6 @@
   <a href="http://twitter.com/cayu"> <img src="https://github.com/paulrobertlloyd/socialmediaicons/blob/main/twitter-24x24.png" /></a>
 </p>
 
-![Cayu's github stats](https://github-readme-stats.vercel.app/api?username=cayu&count_private=true&show_icons=true&theme=dark)
-
-
 ### Hi there 👋
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/cayu.png" alt="TryHackMe">
